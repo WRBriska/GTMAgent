@@ -1,0 +1,4 @@
+# Go To Market agent — runtime dependencies
+anthropic>=0.69.0
+langgraph>=0.2.50
+python-dotenv>=1.0.0
